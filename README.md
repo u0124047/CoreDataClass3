@@ -1,5 +1,5 @@
 # CoreDataClass3
-Step1. New 2 Entities [1] UserData & [2] Car
+Step1. New 2 Entities [1] UserData & [2] Car<br>
 
 Step2. Add Entities [1] UserData Attributes:
            iid: String
