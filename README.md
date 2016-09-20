@@ -1,0 +1,1 @@
+# CoreDataClass3
