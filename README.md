@@ -19,6 +19,6 @@ Step3.<br>Make Entities [1] UserData Relationships:<br>
            Inverse: own // The inverse relationship is own<br>
            Type: To One // A car is only belonged to an user<br>
            
-Step4.<br>Chose 2 Entities and Editor> Create NSManagerObjectContext SubClass<br>
+Step4.<br>Chose 2 Entities and Editor> Create NSManagerObjectContext SubClass<br><br>
 Step5.<br>ViewController.swift <br>
        func initData()<br>
